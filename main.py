@@ -2,12 +2,9 @@
 This entry point for project execution
 """
 
-"""MODIFY THE CODE AS NEEDED"""
-
-"""
-from src.pipeline.train_pipeline import TrainPipeline
+from src.pipeline.execute_pipeline import ExecutePipeline
 
 if __name__=="__main__":
-    pipeline = TrainPipeline()
+    pipeline = ExecutePipeline()
     pipeline.run_pipeline()
-"""
+

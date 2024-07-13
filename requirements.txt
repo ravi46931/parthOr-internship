@@ -1,5 +1,8 @@
 black
 colorama
 mkdocs
+pandas
+openpyxl
+reportlab
 
 -e .

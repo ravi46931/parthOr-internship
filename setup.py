@@ -13,11 +13,10 @@ setup(
     author_email="ravikumar46931@gmail.com",
     url="https://github.com/ravi46931/parthOr-internship",
     packages=find_packages(),
-    install_requires=[  # List your project's dependencies
-        "numpy",  # Example: replace with your actual dependencies
+    install_requires=[  
+        "numpy", 
         "pandas",
         "colorama"
-        
     ],
     include_package_data=True,
 )
